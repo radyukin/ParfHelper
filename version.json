@@ -1,13 +1,12 @@
- {
-      "version": "1.2.5",
-      "versionCode": 15,
-      "title": "Обновление ParfHelper v1.2.5: Редактирование компонентов и формул",
-      "changelog": [
-        "✏️ Редактирование компонентов в формуле: изменение доли % с шагом ±0.1%, ±1%, ±5%, замена сырья и заметки",
-        "🛡️ Realtime IFRA-контроль в модалке редактирования компонента",
-        "✏️ Быстрое переименование и редактирование формул и аккордов"
-       
-      ],
-      "downloadUrl": "https://github.com/radyukin/parfhelper/releases/download/v1.2.5/parfhelper-v1.2.5.apk",
-      "isMandatory": false
-    }
+{
+  "version": "1.2.6",
+  "versionCode": 16,
+  "title": "Хотфикс редактора формул",
+  "isMandatory": false,
+  "downloadUrl": "https://github.com/radyukin/parfhelper/releases/latest/download/parfhelper-v1.2.6.apk",
+  "changelog": [
+    "Исправлен вылет приложения при нажатии «Изменить» у компонента формулы",
+    "Полноценное редактирование долей, процентов, заметок и замена сырья в формуле",
+    "Устойчивый расчет IFRA и определение ольфакторной пирамиды нот"
+  ]
+}
